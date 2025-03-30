@@ -17,6 +17,7 @@
     "parcel": "^2.14.3"
   },
   "dependencies": {
+    "basiclightbox": "^5.0.4",
     "gh-pages": "^6.3.0"
   }
 }
